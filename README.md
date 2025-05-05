@@ -1,4 +1,5 @@
 # Ai-music-converter-
+pip install streamlit openai-whisper moviepy googletrans==4.0.0-rc1 gtts
 # app.py
 import streamlit as st
 import tempfile
